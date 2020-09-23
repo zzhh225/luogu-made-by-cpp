@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="p5703" targetName="p5703" />
@@ -11,10 +29,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7264df63-0c74-43a9-a859-b36e536b3dba" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5703.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5703.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="7264df63-0c74-43a9-a859-b36e536b3dba" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +49,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
   </component>
@@ -63,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600840030628</updated>
-      <workItem from="1600840032614" duration="389000" />
+      <workItem from="1600840032614" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="p5701">
       <created>1600840078048</created>
@@ -79,37 +96,66 @@
       <option name="project" value="LOCAL" />
       <updated>1600840110210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="p5701">
+      <created>1600840503606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600840503606</updated>
+    </task>
+    <task id="LOCAL-00004" summary="p5701">
+      <created>1600840573415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600840573415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="p5701" />
     <MESSAGE value="p5703" />
-    <option name="LAST_COMMIT_MESSAGE" value="p5703" />
+    <MESSAGE value="p5701" />
+    <option name="LAST_COMMIT_MESSAGE" value="p5701" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="559" y="0" key="CommitChangelistDialog2" timestamp="1600840109051">
+    <state x="559" y="0" key="CommitChangelistDialog2" timestamp="1600840572242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="559" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600840109051" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1600840417526">
+    <state x="559" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600840572242" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1600840597252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600840417526" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1600840417525">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600840597252" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1600840597252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600840417525" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1600840417525">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600840597252" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1600840597252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600840417525" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1600840417525">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600840597251" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1600840597252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600840417525" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600840597252" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1600840580119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600840580119" />
   </component>
 </project>
