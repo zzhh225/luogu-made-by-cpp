@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/study/c++/program/luogu/p5735/main.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+

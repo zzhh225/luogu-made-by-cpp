@@ -11,47 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c34f88a7-b2db-48bb-852e-d1efc68c3b9d" name="默认的" comment="p5075+tips">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/p5705.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/p5705.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/p5705.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="c34f88a7-b2db-48bb-852e-d1efc68c3b9d" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +40,6 @@
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="p5705" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="p5705" TARGET_NAME="p5705" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="p5705" RUN_TARGET_NAME="p5705">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -103,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600852317733</updated>
-      <workItem from="1600852319279" duration="335000" />
+      <workItem from="1600852319279" duration="1048000" />
+      <workItem from="1600855445824" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="p5075+tips">
       <created>1600852407068</created>
@@ -112,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600852407068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="p5075+tips">
+      <created>1600852956403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600852956403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,9 +87,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="p5075+tips" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="0" key="CommitChangelistDialog2" timestamp="1600852405307">
+    <state x="649" y="0" key="CommitChangelistDialog2" timestamp="1600852954984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="649" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600852405307" />
+    <state x="649" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600852954984" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1600853368098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600853368098" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1600853368098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600853368098" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1600853368098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600853368098" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1600853368098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600853368098" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1600852958942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600852958942" />
   </component>
 </project>
