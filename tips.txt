@@ -1,1 +1,2 @@
 大小写转换ASCII加减32
+保留小数：引用iomanip， cout<<setiosflags(ios::fixed)<<setprecision(n);n为系数
