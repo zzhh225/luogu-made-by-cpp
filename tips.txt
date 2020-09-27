@@ -1,2 +1,4 @@
 大小写转换ASCII加减32
 保留小数：引用iomanip， cout<<setiosflags(ios::fixed)<<setprecision(n);n为系数
+文件指针移动：file.seekg 移动读指针
+file.seekp 移动写指针
